@@ -19,8 +19,8 @@ nav {
 
 nav img {
   display: block;
-  img: 180px;
-  /* #step 1 */
+    /* #step 1 */
+  width: 180px;
   margin: 0 auto;
 }
 
